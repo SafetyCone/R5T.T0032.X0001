@@ -6,7 +6,7 @@ namespace R5T.T0032.X0001
     /// <summary>
     /// .NET code file <see cref="IFileExtension"/> extensions.
     /// </summary>
-    public class Documentation
+    public static class Documentation
     {
     }
 }
