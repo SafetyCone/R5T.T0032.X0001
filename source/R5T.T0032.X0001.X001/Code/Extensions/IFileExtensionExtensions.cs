@@ -1,7 +1,7 @@
 ﻿using System;
 
 using R5T.T0032;
-using R5T.T0032.X0001;
+using R5T.T0032.X0001.X001;
 
 
 namespace System

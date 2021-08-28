@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-namespace R5T.T0032.X0001
+namespace R5T.T0032.X0001.X001
 {
     public static class CodeFileExtensions
     {

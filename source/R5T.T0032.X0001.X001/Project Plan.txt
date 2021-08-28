@@ -1,0 +1,4 @@
+R5T.T0032.X0001.X001 - C# code file IFileExtension extensions.
+
+Goals
+

@@ -1,10 +1,10 @@
 ﻿using System;
 
 
-namespace R5T.T0032.X0001
+namespace R5T.T0032.X0001.X002
 {
     /// <summary>
-    /// .NET code file <see cref="IFileExtension"/> extensions.
+    /// Visual Studio file related <see cref="FileExtension"/> extensions.
     /// </summary>
     public static class Documentation
     {
