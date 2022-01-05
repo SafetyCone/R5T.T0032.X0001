@@ -20,6 +20,16 @@ namespace System
             return VisualStudioFileExtensions.CSharpProjectFile;
         }
 
+        public static string sln(this IFileExtension _)
+        {
+            return VisualStudioFileExtensions.sln;
+        }
+
+        public static string Sln(this IFileExtension _)
+        {
+            return VisualStudioFileExtensions.sln;
+        }
+
 #pragma warning restore IDE1006 // Naming Styles
     }
 }
