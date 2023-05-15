@@ -10,11 +10,13 @@ namespace System
     {
 #pragma warning disable IDE1006 // Naming Styles
 
+        [Obsolete("See R5T.Z0044.")]
         public static string cs(this IFileExtension _)
         {
             return CodeFileExtensions.cs;
         }
 
+        [Obsolete("See R5T.Z0044.")]
         public static string CSharpCode(this IFileExtension _)
         {
             return CodeFileExtensions.CSharpCode;
